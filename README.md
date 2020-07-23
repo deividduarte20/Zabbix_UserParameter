@@ -46,6 +46,7 @@ Se o comando executar e caso o status do serviço esteja disponível o retorno d
 Verifique a opção Timeout no arquivo /etc/zabbix/zabbix_agentd.conf e mude para Timeout=30.
  
  Acesse o front-end do seu servidor       
-![Uploading Template.png…]()
+
+https://github.com/deividduarte20/Zabbix_UserParameter/issues/1#issue-664701287
 
 
