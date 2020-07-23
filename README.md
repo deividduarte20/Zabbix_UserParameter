@@ -9,11 +9,11 @@ O script consiste em acessar site via navegador lynx e apresentar na tela podend
 
 # Sumário
 
-   ## Requisitos
-   ## Downloads
-   ## Configuração
-   ## Importar template
-   ## Conclusão
+   ### Requisitos
+   ### Downloads
+   ### Configuração
+   ### Importar template
+   ### Conclusão
 
 # Requisitos:
 
@@ -58,6 +58,14 @@ sucesso.
 ![Locaweb](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/Locaweb.png)
 
 ![email](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/email.png)
+
+# Conclusão
+
+Em resumo o arquivo locaweb_status que colocamos no diretório /usr/local/bin/ é um script que irá funcionar como comando
+O arquivo locaweb_status que copiamos para a pasta /etc/zabbix/zabbix_agentd.d/ é um arquivo que contém a chave de UserParameter e após a virgula é o comando que
+executa o script assim o próprio zabbix agent executa o script
+Por fim quando importamos o template o restante do processo já estará todo concluído.
+
 
 # Informações para contato:
 
