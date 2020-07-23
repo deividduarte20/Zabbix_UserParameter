@@ -52,7 +52,7 @@ Configuration > Templates > Import
 
 Selecione o arquivo template_locaweb_zabbix4.2.3.xml
 
-No template foi configurado para efetuar a coleta a cada 10 minutos então aguardo o período de 10 minutos para confirmar que a coleta ocorreu com 
+No template foi configurado para efetuar a coleta a cada 10 minutos então aguarde o período de 10 minutos para confirmar que a coleta ocorreu com 
 sucesso.
 
 ![Locaweb](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/Locaweb.png)
