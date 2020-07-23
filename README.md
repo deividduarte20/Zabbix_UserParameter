@@ -62,3 +62,9 @@ sucesso.
 
 ![email](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/email.png)
 
+# Informações para contato:
+
+Telegram: @deividduarte2020
+Linkedin: https://www.linkedin.com/in/deivid-duarte-b726a83a/
+E-mail: deividdua32@gmail.com
+
