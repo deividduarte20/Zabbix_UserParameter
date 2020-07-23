@@ -64,7 +64,7 @@ sucesso.
 Em resumo o arquivo locaweb_status que colocamos no diretório /usr/local/bin/ é um script que irá funcionar como comando
 O arquivo locaweb_status que copiamos para a pasta /etc/zabbix/zabbix_agentd.d/ é um arquivo que contém a chave de UserParameter e após a virgula é o comando que
 executa o script assim o próprio zabbix agent executa o script
-Por fim quando importamos o template o restante do processo já estará todo concluído.
+Por fim quando importamos o template o restante do processo já estará todo concluído.:EMOJICODE:
 
 
 # Informações para contato:
