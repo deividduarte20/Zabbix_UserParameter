@@ -1,16 +1,16 @@
 # Zabbix_UserParameter
 
 
-Zabbix: Monitorar status disponibilidade de E-mail Locaweb
+# Zabbix: Monitorar status disponibilidade de E-mail Locaweb
 
-DEIVID DUARTE
+# DEIVID DUARTE
 
-Repositório pessoal
+# Repositório pessoal
 
 Script desenvolvido para monitoramento de versão do firmware mikrotik via shell script.
 O script consiste em acessar site via navegador lynx e apresentar na tela podendo ser adaptado para armazenar resultado em arquivo.
 
-Sumário
+# Sumário
 
     Requisitos
     Downloads
@@ -18,7 +18,7 @@ Sumário
     Importar template
     Conclusão
 
-Requisitos:
+# Requisitos:
 
     Instale o pacote
 
@@ -26,14 +26,14 @@ Requisitos:
 
 $ sudo apt-get install -y lynx
     
-Downloads:
+# Downloads:
   
     Baixe os arqivos:
       locaweb_status
       locaweb.conf
       template_locaweb_zabbix4.2.3.xml
 
-Configuração:
+# Configuração:
 
 Copie o arquivo de script locaweb_status para /usr/local/bin/
 Atribua permissão de execução com o comando: chmod +x locaweb_status
@@ -47,6 +47,6 @@ Verifique a opção Timeout no arquivo /etc/zabbix/zabbix_agentd.conf e mude par
  
  Acesse o front-end do seu servidor       
 
-https://github.com/deividduarte20/Zabbix_UserParameter/issues/1#issue-664701287
+
 
 
