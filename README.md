@@ -4,8 +4,8 @@
 
 # Repositório pessoal
 
-Script desenvolvido para monitoramento de versão do firmware mikrotik via shell script.
-O script consiste em acessar site via navegador lynx e apresentar na tela podendo ser adaptado para armazenar resultado em arquivo.
+O script consiste em acessar o site de status de disponibilidade via navegador lynx e filtrar através de expressões regulares para coletar
+O status se está operacional ou não.
 
 # Sumário
 
