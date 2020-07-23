@@ -1,4 +1,4 @@
-# Zabbix: Monitorar status disponibilidade de E-mail Locaweb
+# Zabbix: Monitorar status de disponibilidade do E-mail Locaweb
 
 # DEIVID DUARTE
 
