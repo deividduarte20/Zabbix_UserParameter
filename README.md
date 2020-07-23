@@ -1,6 +1,3 @@
-# Zabbix_UserParameter
-
-
 # Zabbix: Monitorar status disponibilidade de E-mail Locaweb
 
 # DEIVID DUARTE
