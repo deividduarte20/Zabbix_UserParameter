@@ -47,6 +47,9 @@ Verifique a opção Timeout no arquivo /etc/zabbix/zabbix_agentd.conf e mude par
  
  Acesse o front-end do seu servidor       
 
+Configuration > Templates > Import
 
+
+![Template](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/Template.png)
 
 
