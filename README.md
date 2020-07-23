@@ -12,11 +12,11 @@ O script consiste em acessar site via navegador lynx e apresentar na tela podend
 
 # Sumário
 
-    Requisitos
-    Downloads
-    Configuração
-    Importar template
-    Conclusão
+   ## Requisitos
+   ## Downloads
+   ## Configuração
+   ## Importar template
+   ## Conclusão
 
 # Requisitos:
 
