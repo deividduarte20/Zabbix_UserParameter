@@ -4,8 +4,8 @@
 
 # Repositório pessoal
 
-O script consiste em acessar o site de status de disponibilidade via navegador lynx e filtrar através de expressões regulares para coletar
-O status se está operacional ou não.
+O script consiste em acessar o site de status de disponibilidade do serviço de e-mail da locaweb via navegador lynx e filtrar através de expressões regulares para coletar
+o status se está operacional ou não.
 
 # Sumário
 
