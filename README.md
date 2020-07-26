@@ -50,10 +50,12 @@ Configuration > Templates > Import
 ![Template](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/Template.png)
 
 
-Selecione o arquivo template_locaweb_zabbix4.2.3.xml
+Selecione o arquivo zbx_export_templates.xml
 
 No template foi configurado para efetuar a coleta a cada 10 minutos então aguarde o período de 10 minutos para confirmar que a coleta ocorreu com 
 sucesso.
+
+Caso não tenha conseguido lembre-se de reiniciar o serviço do zabbix agent.
 
 ![Locaweb](https://github.com/deividduarte20/Zabbix_UserParameter/blob/master/Locaweb.png)
 
