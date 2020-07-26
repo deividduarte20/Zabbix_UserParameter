@@ -30,6 +30,9 @@ $ sudo apt-get install -y lynx
       locaweb.conf
       template_locaweb_zabbix4.2.3.xml
 
+Para clonar este reposítório do seu linux basta rodar o comando:
+
+
 # Configuração:
 
 Copie o arquivo de script locaweb_status para /usr/local/bin/
