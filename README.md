@@ -32,6 +32,7 @@ $ sudo apt-get install -y lynx
 
 Para clonar este reposítório do seu linux basta rodar o comando:
 
+git clone https://github.com/deividduarte20/Zabbix_UserParameter.git
 
 # Configuração:
 
