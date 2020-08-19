@@ -76,5 +76,5 @@ Por fim quando importamos o template o restante do processo já estará todo con
 Telegram: @deividduarte2020
 Linkedin: https://www.linkedin.com/in/deivid-duarte-b726a83a/
 E-mail: deividdua32@gmail.com
-Canal Yotube: https://bityli.com/M4EXC
+Canal Yotube: https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ?view_as=subscriber
 
