@@ -13,6 +13,7 @@
 # O $1 exigirá um parametro na execução do script que deve ser o ip do rep
 # Faz a verificação condicional e se for verdadeira escreve 1 senão 0
 # ------------------------ MODO DE EXECUÇÃO ------------------------------#
+# nome arquivo.sh ip equipamento
 # ./rep.sh 192.168.2.242
 # ------------------------ TESTE EM BASH --------------------------------#
 # Testado em:
