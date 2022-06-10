@@ -1,15 +1,17 @@
 #!/bin/bash
 
-	status=$(lynx -source https://statusblog.locaweb.com.br/ | grep -A 10 "Email$" | grep -o [Oo]perational | tr A-Z a-z)
-	
+status=$(lynx -source statusblog.locaweb.com.br | grep -A 10 "Email$" | cut -d " " -f5 | sed "1,9d" | sed 2d | tr A-Z a-z)
 
-	if [ "$status" == "operational" ]; then
-		
-		# Está está ok
-		echo "1"
-	
-	else
-		# senão, está fora
+if [ "$status" == "operational" ]; then
 
-		echo "0"
-	fi
+# Está está ok
+
+echo 1
+
+else
+
+# senão, está fora
+
+echo 0
+
+fi
