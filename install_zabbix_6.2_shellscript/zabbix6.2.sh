@@ -46,7 +46,7 @@ sudo zcat /usr/share/zabbix-sql-scripts/mysql/server.sql.gz | mysql --default-ch
 sudo sed 's/# DBPassword=/DBPassword=zabbix/g' /etc/zabbix/zabbix_server.conf -i;
 #
 # Cópia arquivo que contém página inicial do zabbix
-cp zabbix.config.php /etc/zabbix/web/zabbix.config.php
+cp zabbix.config.php /etc/zabbix/web/zabbix.conf.php
 #
 # Reinicia serviços
 sudo systemctl restart zabbix-server zabbix-agent apache2 mariadb.service 
