@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# zabbix6.2.sh - Instala zabbix 6.2 no Debian
+# zabbix6.2.sh - Instala zabbix 6.2 no Debian 11
 #
 # Site:       https://www.youtube.com/c/CaindonaRede/videos
 # Autor:      Deivid Duarte
