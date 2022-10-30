@@ -48,6 +48,10 @@ sudo sed 's/# DBPassword=/DBPassword=zabbix/g' /etc/zabbix/zabbix_server.conf -i
 # Cópia arquivo que contém página inicial do zabbix
 cp zabbix.config.php /etc/zabbix/web/zabbix.conf.php
 #
+# Adiciona pacote de idioma no linux server
+sed -i "s/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/g" /etc/locale.gen
+# Gera idioma adicionado
+locale-gen
 # Reinicia serviços
 sudo systemctl restart zabbix-server zabbix-agent apache2 mariadb.service 
 #
